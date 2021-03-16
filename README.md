@@ -1,5 +1,5 @@
 # C_MouseElf
-基于C++编写的一个及其简陋的鼠标脚本精灵，支持鼠标操作的录制与重放。
+基于C++编写的一个极其简陋的鼠标脚本精灵，支持鼠标操作的录制与重放。
 
 Thanks for using the mouse robot!
 
